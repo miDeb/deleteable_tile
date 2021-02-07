@@ -1,6 +1,6 @@
 name: deleteable_tile
 description: A widget that expands when it is first shown and shrinks when it is deleted.
-version: 0.0.1-nullsafety.0
+version: 0.0.1-nullsafety.1
 homepage: https://github.com/miDeb/deleteable_tile
 
 environment:

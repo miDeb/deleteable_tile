@@ -1,6 +1,8 @@
 # deleteable_tile
 
-<img src="example/example.gif" height="600">
+[![Pub](https://img.shields.io/pub/v/deleteable_tile)](https://pub.dartlang.org/packages/deleteable_tile)
+
+<img src="https://raw.githubusercontent.com/miDeb/deleteable_tile/main/example/example.gif" height="600">
 
 ## Usage
 
@@ -55,6 +57,7 @@ Deleteable(
   ),
 );
 ```
+
 **In both cases:**
 
 After the animation has finished, remove the widget from the tree (i.e. do not rebuild the widget again after it has been deleted).
